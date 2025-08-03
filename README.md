@@ -82,6 +82,6 @@ Export / Save / Customize
    ![Prompt 2](Results/Prompt%20-%202.png)
 
 - **Live Preview**
-  ![Preview 2](Results/Live%20Preview%20-2.png)
+  ![Preview 2](Results/Live%20Preview%20-%202.png)
 
 ---
