@@ -57,4 +57,31 @@ Export / Save / Customize
 | Export Options   | HTML, JSX, JSON (with syntax highlighting + one-click download)    |
 
 
+---
 
+## 📸 Results
+
+### 🧠 Prompt -1 
+
+- **User Prompt**
+  ![Prompt 1](Results/Prompt%20-1.png)
+
+- **Generated UI Code**
+  ![Generated Code](Results/Generated%20Code%20-%201.png)
+
+-🖥️ Live UI Preview
+- **Tablet View**
+  ![Tablet Preview](Results/Live%20Preview%20-1(Tablet).png)
+
+- **Mobile View**
+  ![Mobile Preview](Results/Live%20Preview%20-%201(Mobile).png)
+
+### 🧠 Prompt -2 
+
+- **User Prompt and Code Generation**
+   ![Prompt 2](Results/Prompt%20-%202.png)
+
+- **Live Preview**
+  ![Preview 2](Results/Live%20Preview%20-2.png)
+
+---
